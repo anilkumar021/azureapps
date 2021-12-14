@@ -1,0 +1,26 @@
+3-5 years of extensive work experience with AngularJS and/or Angular 2/4/5 practices and commonly used modules 
+Bachelor's Degree in Computer Science 
+Proficiency with modern JavaScript (ES6+), CSS (Flexbox/CSS Grid a plus), and HTML5 
+Thorough understanding of the following: 
+
+
+Asynchronous mechanisms used in the modern web development (Promises, Observables, etc) 
+Responsibilities of the platform, database, API, caching layer, proxies, and other web services used in the system 
+CSS and JS methods for providing performant visual effects 
+3rd party grid and charting tools (e.g. ag-grid, Highcharts) is a plus 
+
+
+Experience with the following: 
+
+
+Creating self-contained, reusable, and testable modules and components 
+Validating user actions on the client side and providing responsive feedback 
+Architecting and automating the build process for production, using task runners (e.g. webpack, browserify, gulp) 
+Writing extensive unit tests using automated TDD tasks 
+Creating e2e test suites for all components, and running them with Protractor (or a well-reasoned alternative) 
+Creating configuration, build, and test scripts for Continuous Integration environments 
+Coordinating with server infrastructure for delivering front-end app and assets 
+
+
+Professional, precise communication skills 
+Commitment to the highest ethical standards 
